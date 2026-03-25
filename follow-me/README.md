@@ -17,4 +17,3 @@
 ---
 
 Get daily updates on the latest GitHub repositories, AI tools, and developer resources!
-
